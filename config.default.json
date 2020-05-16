@@ -2,10 +2,10 @@
   "env": "development",
   "timezone": "UTC",
   "url": {
-    "host": "localhost:3000",
+    "host": "localhost:3012",
     "prefix": "/",
     "ssl": false,
-    "static": false,
+    "static": "localhost:3012",
     "runner": false
   },
   "max-request-size": "1MB",
